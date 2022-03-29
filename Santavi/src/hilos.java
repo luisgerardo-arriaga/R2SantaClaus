@@ -1,3 +1,9 @@
+/**Integrantes
+ * Pepo
+ * Willy
+ * Héctor
+ * Magaña
+ */
 public class hilos {
     public boolean ban;
         
